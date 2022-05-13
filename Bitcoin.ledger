@@ -1,0 +1,10 @@
+; Bitcoin trades
+2012/11/16 Sold some bitcoins
+	Asset:Bitcoin Wallet	-3.5 BTC
+	Bank:Paypal		$42.21
+2012/11/29 Purchased bitcoins
+	Asset:Bitcoin Wallet   	15 BTC
+	Bank:Paypal		$-300
+2011/11/29 Purchased bitcoins
+	Asset:Bitcoin Wallet   	1 BTC
+	Bank:Paypal		200 BTC
